@@ -1,5 +1,5 @@
-import DashboardFeature from '@/features/dashboard/dashboard-feature'
+'use client'
 
 export default function Home() {
-  return <DashboardFeature />
+  return <div className="text-center text-2xl my-12">gm.</div>
 }
